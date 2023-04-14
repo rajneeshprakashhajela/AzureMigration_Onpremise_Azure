@@ -68,3 +68,7 @@ Turn on Application Logging (Blob) and click on Storage Containers to create a n
 https://www.crowdstrike.com/guides/azure-logging/security-concepts-and-best-practices/
 
 ![image](https://user-images.githubusercontent.com/43515480/232036422-39419c97-b065-41aa-9ce9-fc7ae0ea2a81.png)
+
+**Monitoring services:
+**
+https://www.serverless360.com/blog/how-to-configure-monitoring-and-alerts-for-azure-app-service
