@@ -24,6 +24,18 @@ all file inside inetpub-->WWWRoot
 
 web site build on local Server 
 
+Let's Migrate on Azure
+![image](https://user-images.githubusercontent.com/43515480/232027093-1ed646d4-2f85-4bff-8b90-a4d42ec45fb9.png)
+![image](https://user-images.githubusercontent.com/43515480/232027184-4973faf8-0426-4f42-bde1-68c8ccf9752b.png)
+![image](https://user-images.githubusercontent.com/43515480/232027200-dce4dad1-6f54-4e15-bb80-9471d929e4e1.png)
+![image](https://user-images.githubusercontent.com/43515480/232027269-881d8fd5-9bb4-4569-b597-838acc9a5fe0.png)
+Download app service migration assistant in VM machine..
+![image](https://user-images.githubusercontent.com/43515480/232031145-915df4ef-1054-4775-b703-ad2f22f3b442.png)
+![image](https://user-images.githubusercontent.com/43515480/232031165-437b7200-4078-4a07-ab0b-6449e90d0ef5.png)
+![image](https://user-images.githubusercontent.com/43515480/232031533-1a72ba1d-37ea-444e-bbd4-3f6c29ace32a.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/43515480/232026129-64f0f095-2835-4784-b6dd-a5e4e672073e.png)
 
 
