@@ -1,4 +1,30 @@
 Application
+![image](https://user-images.githubusercontent.com/43515480/232025692-c7ed17e4-0fc2-47c9-9898-0994505d603a.png)
+![image](https://user-images.githubusercontent.com/43515480/232025765-417a248b-d902-4c2c-ac7f-05c770d3751b.png)
+![image](https://user-images.githubusercontent.com/43515480/232025784-49a3f391-2bed-47f9-b344-5502d3e5f5b4.png)
+DNS NAME, Public IP
+
+![image](https://user-images.githubusercontent.com/43515480/232025874-253185a7-2743-400e-b4ac-ebbce702814c.png)
+
+inside network : Port 80
+![image](https://user-images.githubusercontent.com/43515480/232026016-c3450007-9b34-458d-b642-c9f55127b61e.png)
+
+for IIS Role
+Internet explorer -->Tool -> Internet option -->security -> Internet
+mark custom all
+![image](https://user-images.githubusercontent.com/43515480/232026335-99258173-1cae-4caa-a222-fb83dc779448.png)
+
+inside local server
+![image](https://user-images.githubusercontent.com/43515480/232026454-b95374f4-3be2-4c23-a16d-6ecb513277b6.png)
+web server IIS
+
+![image](https://user-images.githubusercontent.com/43515480/232026563-bcff0cd6-a3c2-413b-b3d6-596c3397260b.png)
+all file inside inetpub-->WWWRoot
+![image](https://user-images.githubusercontent.com/43515480/232026762-5e00d1d2-46e8-4570-bc9e-880b2c48816f.png)
+
+web site build on local Server 
+
+![image](https://user-images.githubusercontent.com/43515480/232026129-64f0f095-2835-4784-b6dd-a5e4e672073e.png)
 
 
 Database
