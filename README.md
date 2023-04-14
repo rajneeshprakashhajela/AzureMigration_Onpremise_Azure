@@ -57,4 +57,14 @@ Source & Destination (Need to check for production)
 
 
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/43515480/232035914-04b60bcb-a70e-405d-95fd-c01805335fc9.png)
+
+
+Logging for app services: <br/><br/>
+
+**Logging: To enable Azure Diagnostics, navigate to your Azure Web Application and select App Service Logs. <br/>
+Turn on Application Logging (Blob) and click on Storage Containers to create a new storage container that will connect the logs.**
+
+https://www.crowdstrike.com/guides/azure-logging/security-concepts-and-best-practices/
+
+![image](https://user-images.githubusercontent.com/43515480/232036422-39419c97-b065-41aa-9ce9-fc7ae0ea2a81.png)
