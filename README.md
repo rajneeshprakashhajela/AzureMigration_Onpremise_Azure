@@ -72,3 +72,18 @@ https://www.crowdstrike.com/guides/azure-logging/security-concepts-and-best-prac
 **Monitoring services:
 **
 https://www.serverless360.com/blog/how-to-configure-monitoring-and-alerts-for-azure-app-service
+
+
+How to Monitor Your Azure App Service for Better Performance?
+Monitoring your Azure App Service is essential to ensure that it performs optimally and that your customers are satisfied with your app’s performance. Here are some tips and tricks to help you monitor your Azure App Service for better performance:
+
+Use Application Insights: Azure Application Insights is a robust monitoring and logging tool that can provide deep insights into your application’s performance and health. It can track application availability, request rates, and response times.
+Configure alert rules: Configure alert rules in Application Insights to receive notifications when certain conditions are met. For example, you can set up an alert to notify you when the response time of your application exceeds a certain threshold.
+Use log analytics: Azure Log Analytics is another powerful tool for monitoring your App Service. It can help you identify and troubleshoot application issues by analyzing generated logs.
+Enable detailed error messages: Enable detailed error messages in your App Service to get more information about application errors, which can help you diagnose and fix issues faster.
+Monitor resource utilization: Monitor the resource utilization of your App Service to ensure that you are within your resource limits. You can monitor CPU usage, memory usage, and other metrics using Azure Monitor.
+Monitor external dependencies: Monitor external dependencies such as databases and APIs to ensure they perform well. You can use Azure Application Insights to monitor external dependencies.
+Use Azure Advisor: Azure Advisor is a free service that provides personalized recommendations for improving the performance and reliability of your App Service. It can help you optimize your application and reduce costs.
+Monitor SSL/TLS certificates: Ensure that your SSL/TLS certificates are up-to-date and monitor their expiration dates to avoid downtime. You can use Azure Monitor to monitor SSL/TLS certificates.
+Monitor custom metrics: Monitor custom metrics specific to your application using Application Insights, which can help you gain deeper insights into the performance of your application.
+Use dashboards: Create custom dashboards in Azure Monitor to view metrics and logs specific to your application. Dashboards can help you quickly identify issues and take action to resolve them.
